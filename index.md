@@ -128,6 +128,6 @@ All papers were accepted and presented orally. Conference DOIs are pending.
 
 - [Ethics of Artificial Intelligence](https://www.coursera.org/account/accomplishments/verify/X8ZNP857SP46) — Coursera (2023)
 - [Intro to Analytic Thinking, Data Science, and Data Mining](https://www.coursera.org/account/accomplishments/verify/R43689ATLQKA) — Coursera (2023)
-- **Languages:** English (C1), Urdu, Russian (A1)
+- **Languages:** English, Urdu, Russian
 
 References are available on request.
