@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-description: "Publications and research outputs of Nawazish Hussain."
+description: "Publications and research outputs of Hussain."
 permalink: /publications/
 ---
 

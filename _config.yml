@@ -20,12 +20,12 @@ baseurl:                '/Protfolio'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Nawazish Hussain
+title:                 Hussain
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Academic portfolio of Nawazish Hussain, an AI researcher working in machine learning,
+  Academic portfolio of Hussain, an AI researcher working in machine learning,
   natural language processing, computer vision, biomedical AI, information extraction,
   knowledge graphs, multimodal learning, and trustworthy AI.
 
@@ -42,7 +42,7 @@ logo:                  /assets/img/profile-monogram.svg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Nawazish Hussain
+  name:                Hussain
   email:               nawazishpatana@gmail.com
   about:               |
     AI researcher at the Stream Data Analytics and Machine Learning Lab, Novosibirsk State University.
@@ -72,7 +72,7 @@ menu:
 legal:                 []
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2026 Nawazish Hussain. All rights reserved.
+copyright:             © 2026 Hussain. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
