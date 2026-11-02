@@ -90,7 +90,7 @@ All papers were accepted and presented orally. Conference DOIs are pending.
 
 ### Software Developer
 
-**Softify Technologies**  
+**Softify Technologies**, Pakistan  
 **Jun 2022 – May 2024**
 
 - Designed, tested and deployed Android applications across multiple sectors with API integration and AI-enabled features.
