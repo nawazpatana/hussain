@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About Me"
-description: "Academic CV and research profile of Nawazish Hussain."
+description: "Academic CV and research profile of Hussain."
 hide_description: true
 ---
 
-I am **Nawazish Hussain**, an AI researcher currently undertaking a research internship in **Multimodal AI and Explainable Visual Art Analysis at National Taichung University of Education, Taiwan**. I hold a **Master's degree in Artificial Intelligence and Big Data Analytics from Novosibirsk State University, Russia**. My research interests include **Machine Learning, Computer Vision, Natural Language Processing, Multimodal Learning, Biomedical AI, Information Extraction, Knowledge Graphs, and Trustworthy AI**.
+I am **Hussain**, an AI researcher currently undertaking a research internship in **Multimodal AI and Explainable Visual Art Analysis at National Taichung University of Education, Taiwan**. I hold a **Master's degree in Artificial Intelligence and Big Data Analytics from Novosibirsk State University, Russia**. My research interests include **Machine Learning, Computer Vision, Natural Language Processing, Multimodal Learning, Biomedical AI, Information Extraction, Knowledge Graphs, and Trustworthy AI**.
 {:.lead}
 
 [**Download CV (PDF)**]({{ '/assets/files/Nawazish_Hussain_CV.pdf' | relative_url }}) · [GitHub](https://github.com/nawazpatana) · [LinkedIn](https://www.linkedin.com/in/nawazpatana/) · [Email](mailto:nawazishpatana@gmail.com)

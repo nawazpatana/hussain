@@ -2,7 +2,7 @@
 
 This site is configured so that:
 
-- Clicking **Nawazish Hussain** in the sidebar opens `/profile/` and shows the complete CV (`index.md`).
+- Clicking **Hussain** in the sidebar opens `/profile/` and shows the complete CV (`index.md`).
 - **Publications** opens `/profile/publications/` (`publications.md`).
 - **Academics** opens `/profile/academics/` (`academics.md`).
 - **Projects** opens `/profile/projects/` (`projects.md`).
