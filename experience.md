@@ -8,37 +8,50 @@ permalink: /experience/
 ## Research Experience
 
 ### Research Intern, Multimodal AI & Explainable Visual Art Analysis
-**National Taichung University of Education, Taiwan**  
-**Sep 2026 – Present**
 
-- Research multimodal AI for emotion recognition and explainable aesthetic interpretation of visual art.
-- Develop ResNet50- and CLIP-based image–text models for artwork emotion classification using multimodal fusion.
-- Apply visual attribution and aesthetic feature analysis to generate evidence-grounded explanations of model predictions.
+**National Taichung University of Education**, Taiwan  
+**Sep 2026 – Present** · TEEP Research Internship
+
+- Fine-tune ResNet50 and CLIP models on ArtEmis for artwork emotion classification.
+- Develop methods to explain model predictions and relate them to aesthetic features of artworks.
 
 ### Researcher, Stream Data Analytics and Machine Learning Lab
-**Nov 2025 – Sep 2026**
 
-- Conducted independent research in Machine Learning, NLP, and Computer Vision.
-- Developed and evaluated AI models and prepared research for publication.
+**Novosibirsk State University**, Russia  
+**Nov 2025 – Sep 2026** · Advisor: Dr. Evgeniy Pavlovskiy
 
-## Teaching / Training
+- Built **ClaimGraph-BT**, a pipeline that detects scientific claims in 1,585 brain tumor AI papers (17,304 sentences) using fine-tuned PubMedBERT and BioBERT, extracts structured fields with Flan-T5, and links claims across papers with SPECTER2 clustering and graph layers. The best model (PubMedBERT) reached 0.84 accuracy and 0.93 AUC. Presented at AIST 2026.
+- Co-authored **MedSETNER**, a benchmark corpus of 691 medical articles with 9,376 annotated dataset-name mentions (Fleiss' κ = 0.85); contributed to dataset annotation. Presented at AIST 2026.
+- Released **BrainTumorClaims**, a public dataset of 17,304 annotated sentences for claim detection and structured information extraction ([Zenodo](https://doi.org/10.5281/zenodo.20364566)).
+- Coordinated lab projects in machine learning and data analytics.
 
-### IT Trainer, Government of Gilgit Baltistan
+---
+
+## Teaching
+
+### IT Trainer
+
+**Government of Gilgit-Baltistan**, Pakistan  
 **Apr 2024 – Sep 2024**
 
-- Delivered Python training through practical programming exercises and project-based learning.
-- Mentored learners in problem solving, algorithmic thinking, and software development fundamentals.
+- Taught Python through project-based exercises.
+- Mentored learners in problem solving, algorithmic thinking and software development fundamentals.
+
+---
 
 ## Industry Experience
 
-### Software Developer, Softify Technologies
+### Software Developer
+
+**Softify Technologies**  
 **Jun 2022 – May 2024**
 
-- Developed Android applications across multiple sectors with API integration and AI-enabled features.
-- Contributed to application design, implementation, testing, and deployment workflows.
+- Designed, tested and deployed Android applications across multiple sectors.
+- Integrated APIs and AI-enabled features into production apps.
 
-### Internee, Sina Institute of Networks and Aesthetics
+### Intern
+
+**Sina Institute of Networks and Aesthetics**  
 **Mar 2019 – Sep 2019**
 
-- Provided technical support, system setup, maintenance, troubleshooting, and user training.
-
+- Provided technical support, system setup, maintenance, troubleshooting and user training.
